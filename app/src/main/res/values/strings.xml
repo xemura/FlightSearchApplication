@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FlightSearchApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- String for bottom menu -->
+    <string name="air_tickets">Авиабилеты</string>
+    <string name="hotels">Отели</string>
+    <string name="bell">Подписки</string>
+    <string name="location">Короче</string>
+    <string name="profile">Профиль</string>
 </resources>

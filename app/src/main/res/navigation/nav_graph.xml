@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/airTicketsFragment">
+
+    <fragment
+        android:id="@+id/airTicketsFragment"
+        android:name="com.xenia.flightsearchapplication.fragments.FragmentAirTicket"
+        android:label="@string/air_tickets"
+        tools:layout="@layout/fragment_air_ticket"/>
+
+    <fragment
+        android:id="@+id/hotelsFragment"
+        android:name="com.xenia.flightsearchapplication.fragments.FragmentHotels"
+        android:label="@string/hotels"
+        tools:layout="@layout/fragment_hotels"/>
+
+
+
+</navigation>

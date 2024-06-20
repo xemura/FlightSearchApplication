@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/air_tickets_fragment"
+        android:icon="@drawable/type_air_tickets"
+        android:title="@string/air_tickets"  />
+    <item
+        android:id="@+id/hotels_fragment"
+        android:icon="@drawable/type_hotel"
+        android:title="@string/hotels" />
+    <item
+        android:id="@+id/location_fragment"
+        android:icon="@drawable/type_location"
+        android:title="@string/location" />
+    <item
+        android:id="@+id/subscriptions_fragment"
+        android:icon="@drawable/type_bell"
+        android:title="@string/bell" />
+    <item
+        android:id="@+id/profile_fragment"
+        android:icon="@drawable/type_profile"
+        android:title="@string/profile" />
+</menu>
